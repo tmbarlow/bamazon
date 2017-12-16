@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon like app to purchase items.",
+  "main": "bamazon.js",
+  "dependencies": {
+    "package-json": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tyler barlow",
+  "license": "ISC"
+}
