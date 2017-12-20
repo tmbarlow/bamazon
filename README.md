@@ -7,3 +7,4 @@ Initiatlizing node bamazon.js in the command line brings up the store front. It 
 Utiliazes mysql, inquirer, cli-table, and color/safe npm packages. 
 
 
+![Bamzazon](Images/bamazon.mp4)
